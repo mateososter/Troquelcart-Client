@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 
-export function Home() {
+export function Login() {
   const [input, setInput] = useState({
     Username: '',
     Password: '',
